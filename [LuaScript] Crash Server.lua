@@ -10,3 +10,4 @@ end)
 callbacks.Register("Draw", function()
     window:SetActive(references.aimware:IsActive());
 end);
+
